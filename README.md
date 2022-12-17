@@ -1,0 +1,1 @@
+# my-powerlevel10k-config
